@@ -1,0 +1,26 @@
+## Hi there <img src="https://raw.githubusercontent.com/tranphuquy19/tranphuquy19/master/hi.gif" width="30px"></h2>
+
+<a href="https://linkedin.com/in/tranphuquy19">
+  <img align="left" alt="tranphuquy19's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/tranphuquy19">
+  <img align="left" alt="tranphuquy19's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+
+</br>
+
+### Glad to see you here! 🤩 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=tranphuquy19.tranphuquy19)
+
+I'm a freelance Software Engineer 🇻🇳 🇯🇵 🇺🇸. For more than 2 years, I’ve worked on various projects involving both front-end and back-end development.
+
+## More about me...
+
+- 🔭 I’m currently working on NodeJs, React/VueJs etc 💻.
+- 🌱 In ♥️ with NodeJs and its awesomeness 🚀.
+- 📫 How to reach me: tranphuquy19@gmail.com | [LinkedIn](https://www.linkedin.com/in/tranphuquy19) | [Twitter](https://twitter.com/tranphuquy19)
+- 💬 Always happy to help, Reach me in [Facebook](https://fb.com/tranphuquy19)
+- 📚 Fun fact: I have a blog, and it's [here](https://doracoder.tk) 👨‍💻.
+
+### Show some ❤️ by starring some of the repositories!
+
+![tranphuquy19's github stats](https://github-readme-stats.vercel.app/api?username=tranphuquy19&show_icons=true&hide_border=true&count_private=true&theme=radical)
