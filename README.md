@@ -13,9 +13,11 @@
 
 I'm a freelance Software Engineer 🇻🇳 🇯🇵 🇺🇸. For more than 2 years, I’ve worked on various projects involving both front-end and back-end development.
 
+<img align="right" height="250" width="375" alt="GIF" src="https://raw.githubusercontent.com/tranphuquy19/tranphuquy19/master/coder.gif" />
+
 ## More about me...
 
-- 🔭 I’m currently working on NodeJs, React/VueJs etc 💻.
+- 🔭 I’m currently working on NodeJs, Expressjs, React/Vue, <br/> NestJs, Mongodb, Postgres, Graphql, Java etc 💻.
 - 🌱 In ♥️ with NodeJs and its awesomeness 🚀.
 - 📫 How to reach me: tranphuquy19@gmail.com | [LinkedIn](https://www.linkedin.com/in/tranphuquy19) | [Twitter](https://twitter.com/tranphuquy19)
 - 💬 Always happy to help, Reach me in [Facebook](https://fb.com/tranphuquy19)
