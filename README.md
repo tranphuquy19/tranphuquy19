@@ -12,6 +12,9 @@
 ### Glad to see you here! 🤩 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=tranphuquy19.tranphuquy19)
 
 I'm a freelance Software Engineer 🇻🇳 🇯🇵 🇺🇸. For more than 2 years, I’ve worked on various projects involving both front-end and back-end development.
+</br>
+</br>
+</br>
 
 <img align="right" height="250" width="375" alt="GIF" src="https://raw.githubusercontent.com/tranphuquy19/tranphuquy19/master/coder.gif" />
 
@@ -25,4 +28,4 @@ I'm a freelance Software Engineer 🇻🇳 🇯🇵 🇺🇸. For more than 2 ye
 
 ### Show some ❤️ by starring some of the repositories!
 
-![tranphuquy19's github stats](https://github-readme-stats.vercel.app/api?username=tranphuquy19&show_icons=true&hide_border=true&count_private=true&theme=radical)
+![tranphuquy19's github stats](https://github-readme-stats.vercel.app/api?username=tranphuquy19&show_icons=true&hide_border=true&count_private=true&theme=radical&cache_secounds=1800&include_all_commits=true&count_private=true)
