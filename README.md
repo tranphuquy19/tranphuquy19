@@ -16,9 +16,9 @@ I'm a freelance Software Engineer 🇻🇳 🇯🇵 🇺🇸. For more than 2 ye
 </br>
 </br>
 
-<img align="right" height="250" width="375" alt="GIF" src="https://raw.githubusercontent.com/tranphuquy19/tranphuquy19/master/coder.gif" />
+<img align="right" height="200" width="375" alt="GIF" src="https://raw.githubusercontent.com/tranphuquy19/tranphuquy19/master/coder.gif" />
 
-## More about me...
+### More about me...
 
 - 🔭 I’m currently working on NodeJs, Expressjs, React/Vue, <br/> NestJs, Mongodb, Postgres, Graphql, Java etc 💻.
 - 🌱 In ♥️ with NodeJs and its awesomeness 🚀.
