@@ -24,7 +24,7 @@ I'm a freelance Software Engineer 🇻🇳 🇯🇵 🇺🇸. For more than 2 ye
 - 🌱 In ♥️ with NodeJs and its awesomeness 🚀.
 - 📫 How to reach me: tranphuquy19@gmail.com | [LinkedIn](https://www.linkedin.com/in/tranphuquy19) | [Twitter](https://twitter.com/tranphuquy19)
 - 💬 Always happy to help, Reach me in [Facebook](https://fb.com/tranphuquy19)
-- 📚 Good news: I have a blog, and it's [here](https://doracoder.tk) 👨‍💻.
+- 📚 Did u now? I have a blog, and it's [here](https://doracoder.tk) 👨‍💻.
 
 ### Show some ❤️ by starring some of the repositories!
 
