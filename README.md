@@ -28,4 +28,4 @@ I'm a freelance Software Engineer 🇻🇳 🇯🇵 🇺🇸. For more than 2 ye
 
 ### Show some ❤️ by starring some of the repositories!
 
-![tranphuquy19's github stats](https://github-readme-stats.vercel.app/api?username=tranphuquy19&show_icons=true&hide_border=true&count_private=true&theme=radical&cache_secounds=1800&include_all_commits=true&count_private=true)
+[![tranphuquy19's github stats](https://github-readme-stats.vercel.app/api?username=tranphuquy19&show_icons=true&line_height=21&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=1800)](https://github.com/tranphuquy19)
