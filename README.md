@@ -9,7 +9,7 @@
 
 </br>
 
-### Glad to see you here! 🤩 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=tranphuquy19.tranphuquy19)
+### Glad to see you here! 🤩 [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=tranphuquy19.tranphuquy19)](https://github.com/tranphuquy19)
 
 I'm a freelance Software Engineer 🇻🇳 🇯🇵 🇺🇸. For more than 2 years, I’ve worked on various projects involving both front-end and back-end development.
 </br>
