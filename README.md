@@ -27,4 +27,4 @@ I'm a freelance Software Engineer 🇻🇳 🇯🇵 🇺🇸. For more than 2 ye
 - 📚 Did u know? I have a blog, and it's [here](https://doracoder.tk) 👨‍💻.
 
 ### Stats
-[![tranphuquy19's trophies](https://github-profile-trophy.vercel.app/?username=tranphuquy19&row=3&column=7&margin-w=5&no-bg=true&theme=dracula)](https://github.com/tranphuquy19)[![tranphuquy19's github stats](https://github-readme-stats.vercel.app/api?username=tranphuquy19&show_icons=true&line_height=21&show_icons=true&theme=dracula&count_private=true&cache_seconds=1800)](https://github.com/tranphuquy19)
+[![tranphuquy19's trophies](https://github-profile-trophy.vercel.app/?username=tranphuquy19&row=3&column=7&margin-w=5&theme=dracula)](https://github.com/tranphuquy19)[![tranphuquy19's github stats](https://github-readme-stats.vercel.app/api?username=tranphuquy19&show_icons=true&line_height=21&show_icons=true&theme=dracula&count_private=true&cache_seconds=1800)](https://github.com/tranphuquy19)
