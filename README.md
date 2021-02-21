@@ -28,4 +28,5 @@ I'm a freelance Software Engineer 🇻🇳 🇯🇵 🇺🇸. For more than 2 ye
 
 ### Show some ❤️ by starring some of the repositories!
 
-[![tranphuquy19's github stats](https://github-readme-stats.vercel.app/api?username=tranphuquy19&show_icons=true&line_height=21&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=1800)](https://github.com/tranphuquy19)
+### Stats
+[![tranphuquy19's trophies](https://github-profile-trophy.vercel.app/?username=tranphuquy19&row=3&column=7&margin-w=5)](https://github.com/tranphuquy19)[![tranphuquy19's github stats](https://github-readme-stats.vercel.app/api?username=tranphuquy19&show_icons=true&line_height=21&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=1800)](https://github.com/tranphuquy19)
