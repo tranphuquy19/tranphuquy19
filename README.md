@@ -11,7 +11,7 @@
 
 ### Glad to see you here! 🤩 [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=tranphuquy19.tranphuquy19)](https://github.com/tranphuquy19)
 
-I'm a freelance Software Engineer 🇻🇳 🇯🇵 🇺🇸. For more than 2 years, I’ve worked on various projects involving both front-end and back-end development.
+I'm a freelance Software Engineer 🇻🇳 🇯🇵 🇺🇸. For more than 3 years, I’ve worked on various projects involving both FrontEnd, BackEnd and also DevOps.
 </br>
 </br>
 </br>
