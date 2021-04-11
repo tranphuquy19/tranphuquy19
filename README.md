@@ -20,11 +20,11 @@ I'm a freelance Software Engineer 🇻🇳 🇯🇵 🇺🇸. For more than 2 ye
 
 ### More about me...
 
-- 🔭 I’m currently working on NodeJs, Expressjs, React/Vue, <br/> NestJs, Mongodb, Postgres, Graphql, Java etc 💻.
+- 🔭 I’m currently working on NodeJs, Golang, Expressjs, React/Vue, <br/> NestJs, Mongodb, Postgres, Graphql, Java etc 💻.
 - 🌱 In ♥️ with NodeJs and its awesomeness 🚀.
 - 📫 How to reach me: tranphuquy19@gmail.com | [LinkedIn](https://www.linkedin.com/in/tranphuquy19) | [Twitter](https://twitter.com/tranphuquy19)
 - 💬 Always happy to help, Reach me in [Facebook](https://fb.com/tranphuquy19)
-- 📚 Did u know? I have a blog, and it's [here](https://doracoder.tk) 👨‍💻.
+- 📚 Do u know? I have a blog, and it's [here](https://doracoder.tk) 👨‍💻.
 
 ### Stats
 [![tranphuquy19's trophies](https://github-profile-trophy.vercel.app/?username=tranphuquy19&row=3&column=7&margin-w=5&theme=dracula)](https://github.com/tranphuquy19)[![tranphuquy19's github stats](https://github-readme-stats.vercel.app/api?username=tranphuquy19&show_icons=true&line_height=21&show_icons=true&theme=dracula&count_private=true&cache_seconds=1800)](https://github.com/tranphuquy19)
