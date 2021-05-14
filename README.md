@@ -34,6 +34,7 @@
 
 <p>
     <a href="https://github.com/search?q=user%3Atranphuquy19+is%3Arepo+language%3AtypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript%20-%23007ACC.svg?logo=typescript&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3Atranphuquy19+is%3Arepo+language%3Ajava"><img alt="Java" src="https://img.shields.io/badge/Java%20-%23007396.svg?logo=java&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Atranphuquy19+is%3Arepo+language%3AHCL"><img alt="Terraform" src="https://img.shields.io/badge/Terraform%20-%23623CE4.svg?logo=terraform&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Atranphuquy19+is%3Arepo+language%3Agolang"><img alt="Terraform" src="https://img.shields.io/badge/Go%20-%2300ADD8.svg?logo=go&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Atranphuquy19+is%3Arepo+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash%20-%23121011.svg?logo=gnu-bash&logoColor=white"></a>
@@ -54,4 +55,40 @@
     <a href="https://github.com/search?q=user%3Atranphuquy19+is%3Arepo+language%3Asql"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Atranphuquy19+is%3Arepo+language%3Asvg"><img alt="SVG+XML" src="https://img.shields.io/badge/SVG%2BXML%20-%23e0982c.svg?logo=svg&logoColor=white"></a>
     
+</p>
+
+
+### 🧰 Frameworks and libraries
+
+<p>
+    <a href="#"><img alt="Nest.js" src="https://img.shields.io/badge/Nest.js%20-%23E0234E.svg?logo=nestjs&logoColor=white"></a>
+    <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js%20-%23404d59.svg?logo=express&logoColor=white"></a>
+    <a href="#"><img alt="Electron" src="https://img.shields.io/badge/Electron%20-%2320232e.svg?logo=electron&logoColor=white"></a>
+    <a href="#"><img alt="React" src="https://img.shields.io/badge/React%20-%2320232a.svg?logo=react&logoColor=%2361DAFB"></a>
+    <a href="#"><img alt="Laravel" src="https://img.shields.io/badge/Laravel%20-%23FF2D20.svg?logo=laravel&logoColor=white"></a>
+    <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions%20-%232671E5.svg?logo=github%20actions&logoColor=white"></a>
+    <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
+    <a href="#"><img alt="Material Design" src="https://img.shields.io/badge/Material%20Design%20-%230081CB.svg?logo=material-design&logoColor=white"></a>
+    <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></a>
+    <a href="#"><img alt="WPF (.Net)" src="https://img.shields.io/badge/WPF-5C2D91?logo=.net&logoColor=white"></a>
+</p>
+
+### 🗄️ Databases and cloud hosting
+
+<p>
+    <a href="#"><img alt="Amazon AWS" src="https://img.shields.io/badge/Amazon%20AWS-%23232F3E.svg?logo=amazon%20aws&logoColor=white"></a>
+    <a href="#"><img alt="Amazon S3" src="https://img.shields.io/badge/Amazon%20S3-%23569A31.svg?logo=amazon%20s3&logoColor=white"></a>
+    <a href="#"><img alt="Vultr" src="https://img.shields.io/badge/Amazon%20AWS-%23007BFC.svg?logo=vultr&logoColor=white"></a>
+    <a href="#"><img alt="Netlify" src="https://img.shields.io/badge/Netlify-%2300C7B7.svg?logo=netlify&logoColor=white"></a>
+    <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
+    <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a>
+    <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"></a>
+    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&logoColor=white"></a>
+    <a href="#"><img alt="Notion" src="https://img.shields.io/badge/Notion%20-%23010101.svg?logo=notion&logoColor=white"></a>
+    <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-%23316192.svg?logo=postgresql&logoColor=white"></a>
+    <a href="#"><img alt="Amazon DynamoDB" src ="https://img.shields.io/badge/Amazon%20DynamoDB-%23316192.svg?logo=amazon%20dynamodb&logoColor=white"></a>
+    <a href="#"><img alt="Oracle" src ="https://img.shields.io/badge/Oracle%20-%23F00000.svg?logo=oracle&logoColor=white"></a>
+    <a href="#"><img alt="Repl.it" src="https://img.shields.io/badge/Repl.it%20-%230D101E.svg?logo=Repl.it&logoColor=white"></a>
+    <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white"></a>
+    <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel%20-%23000000.svg?logo=vercel&logoColor=white"></a>
 </p>
