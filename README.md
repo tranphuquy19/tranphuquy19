@@ -80,7 +80,7 @@
 <p>
     <a href="#"><img alt="Amazon AWS" src="https://img.shields.io/badge/Amazon%20AWS-%23232F3E.svg?logo=amazon%20aws&logoColor=white"></a>
     <a href="#"><img alt="Amazon S3" src="https://img.shields.io/badge/Amazon%20S3-%23569A31.svg?logo=amazon%20s3&logoColor=white"></a>
-    <a href="#"><img alt="Vultr" src="https://img.shields.io/badge/Amazon%20AWS-%23007BFC.svg?logo=vultr&logoColor=white"></a>
+    <a href="#"><img alt="Vultr" src="https://img.shields.io/badge/Vultr-%23007BFC.svg?logo=vultr&logoColor=white"></a>
     <a href="#"><img alt="Netlify" src="https://img.shields.io/badge/Netlify-%2300C7B7.svg?logo=netlify&logoColor=white"></a>
     <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
     <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a>
