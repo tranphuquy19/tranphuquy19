@@ -123,12 +123,12 @@
 <details> 
   <summary>💻 GitHub Profile Stats</summary>
   <br/>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Tran Phu Quy's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=tranphuquy19&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Tran Phu Quy's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=tranphuquy19&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /></a>
+    <a href="https://github.com/tranphuquy19"><img alt="Tran Phu Quy's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=tranphuquy19&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /></a>
+  <a href="https://github.com/tranphuquy19"><img alt="Tran Phu Quy's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=tranphuquy19&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </details>
 
 
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Tran Phu Quy's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=tranphuquy19&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+  <a href="https://github.com/tranphuquy19"><img alt="Tran Phu Quy's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=tranphuquy19&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
