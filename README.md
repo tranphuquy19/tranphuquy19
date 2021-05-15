@@ -23,11 +23,8 @@
 ## 🔥 Streak stats
 
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
-<p align="center">
-  <a href="https://github.com/tranphuquy19">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Tran Phu Quy's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=tranphuquy19&theme=monokai-metallian&hide_border=true"/>
-  </a>
-</p>
+> [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tranphuquy19&theme=radical&hide_border=true)](https://git.io/streak-stats)
+
 
 ## 🛠️ My favorite tools
 
