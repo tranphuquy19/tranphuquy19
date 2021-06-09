@@ -23,7 +23,7 @@
 ## 🔥 Streak stats
 
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
-> [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tranphuquy19&theme=radical&hide_border=true)](https://github-readme-streak-stats.herokuapp.com?user=tranphuquy19&theme=radical&hide_border=true)
+> [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tranphuquy19&theme=radical&hide_border=true)](https://github.com/tranphuquy19)
 
 
 ## 🛠️ My favorite tools
