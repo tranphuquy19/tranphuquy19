@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
-<p align="center">
+<a align="center">
   <a href="https://github.com/tranphuquy19"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack+developer;DevOps+Engineer;%2B3+years+coding+experience;A+blogger&center=true&width=380&height=45"></a>
 </p>
 
@@ -19,6 +19,15 @@
   <a href="https://dev.to/"><img alt="Dev.to" title="Tran Phu Quy Dev.to" src="https://img.shields.io/badge/DEV.TO-3835D3.svg?&style=for-the-badge&logo=dev.to&logoColor=white"></a>
 </p>
 
+## ⛅️ Weather in Danang now!
+
+<pre>Weather: ⛅️  Partly cloudy, +34°C, 56%, ↗0km/h, 1005hPa
+Timezone: Asia/Ho_Chi_Minh
+  Now:    10:13:39+0700 | Dawn:    05:07:46  | Sunrise: 05:30:44
+  Zenith: 11:52:34      | Sunset:  18:14:08  | Dusk:    18:37:04
+Location: Đà Nẵng, Thanh Khê, Đà Nẵng, Việt Nam [16.0670,108.2119]
+
+</pre>
 
 ## 🔥 Streak stats
 
@@ -52,7 +61,7 @@
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Asass"><img alt="SASS" src="https://img.shields.io/badge/Sass%20-hotpink.svg?logo=SASS&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Atranphuquy19+is%3Arepo+language%3Asql"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Atranphuquy19+is%3Arepo+language%3Asvg"><img alt="SVG+XML" src="https://img.shields.io/badge/SVG%2BXML%20-%23e0982c.svg?logo=svg&logoColor=white"></a>
-    
+
 </p>
 
 
@@ -117,7 +126,7 @@
 ## 📊 Github stats
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-<details> 
+<details>
   <summary>💻 GitHub Profile Stats</summary>
   <br/>
     <a href="https://github.com/tranphuquy19"><img alt="Tran Phu Quy's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=tranphuquy19&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /></a>
