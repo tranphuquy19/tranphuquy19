@@ -3,9 +3,9 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
-<a align="center">
+<p align="center">
   <a href="https://github.com/tranphuquy19"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack+developer;DevOps+Engineer;%2B3+years+coding+experience;A+blogger&center=true&width=380&height=45"></a>
-</a>
+</p>
 
 ## 🙋‍♂️ Connect with me
 
@@ -21,9 +21,9 @@
 
 ## ⛅️ Weather in Danang now!
 
-<pre>Weather: ⛅️  Partly cloudy, +36°C, 57%, ←17km/h, 1001hPa
+<pre>Weather: ⛅️  Partly cloudy, +32°C, 80%, ↖9km/h, 1003hPa
 Timezone: Asia/Ho_Chi_Minh
-  Now:    17:43:57+0700 | Dawn:    05:07:46  | Sunrise: 05:30:44
+  Now:    19:07:11+0700 | Dawn:    05:07:46  | Sunrise: 05:30:44
   Zenith: 11:52:34      | Sunset:  18:14:08  | Dusk:    18:37:04
 Location: Đà Nẵng, Thanh Khê, Đà Nẵng, Việt Nam [16.0670,108.2119]
 
