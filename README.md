@@ -23,7 +23,7 @@
 
 <pre>Weather: ⛅️  Partly cloudy, +29°C, 58%, ↘17km/h, 1015hPa
 Timezone: Asia/Ho_Chi_Minh
-  Now:    11:56:03+0700 | Dawn:    05:23:47  | Sunrise: 05:45:45
+  Now:    12:28:21+0700 | Dawn:    05:23:47  | Sunrise: 05:45:45
   Zenith: 11:52:20      | Sunset:  17:59:02  | Dusk:    18:21:01
 Location: Đà Nẵng, Thanh Khê, Đà Nẵng, Việt Nam [16.0670,108.2119]
 
@@ -132,10 +132,6 @@ Location: Đà Nẵng, Thanh Khê, Đà Nẵng, Việt Nam [16.0670,108.2119]
   <summary>💻 GitHub Profile Stats</summary>
   <br/>
     <a href="https://github.com/tranphuquy19"><img alt="Tran Phu Quy's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=tranphuquy19&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /></a>
-  <a href="https://github.com/tranphuquy19"><img alt="Tran Phu Quy's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=tranphuquy19&langs_count=10&hide=php,javascript,html,css,scss&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-</details>
 
 
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
