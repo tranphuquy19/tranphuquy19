@@ -23,7 +23,7 @@
 
 <pre>Weather: ⛅️  Partly cloudy, +20°C, 73%, ↘6km/h, 1019hPa
 Timezone: Asia/Ho_Chi_Minh
-  Now:    02:26:43+0700 | Dawn:    05:19:13  | Sunrise: 05:41:15
+  Now:    02:54:08+0700 | Dawn:    05:19:13  | Sunrise: 05:41:15
   Zenith: 11:50:33      | Sunset:  17:59:57  | Dusk:    18:22:01
 Location: Đà Nẵng, Thanh Khê, Đà Nẵng, Việt Nam [16.0670,108.2119]
 
@@ -46,6 +46,7 @@ Location: Đà Nẵng, Thanh Khê, Đà Nẵng, Việt Nam [16.0670,108.2119]
     <a href="https://github.com/search?q=user%3Atranphuquy19+is%3Arepo+language%3Ajava"><img alt="Java" src="https://img.shields.io/badge/Java%20-%23007396.svg?logo=java&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Atranphuquy19+is%3Arepo+language%3Agolang"><img alt="Terraform" src="https://img.shields.io/badge/Go%20-%2300ADD8.svg?logo=go&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Atranphuquy19+is%3Arepo+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash%20-%23121011.svg?logo=gnu-bash&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3Atranphuquy19+is%3Arepo+language%3Apowershell"><img alt="PowerShell" src="https://img.shields.io/badge/PowerShell%20-%235391FE.svg?logo=powershell&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Atranphuquy19+is%3Arepo+language%3Acpp"><img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Atranphuquy19+is%3Arepo+language%3Acsharp"><img alt="C#" src="https://img.shields.io/badge/C%23%20-%23239120.svg?logo=c-sharp&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Atranphuquy19+is%3Arepo+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
