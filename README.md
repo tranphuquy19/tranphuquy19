@@ -23,7 +23,7 @@
 
 <pre>Weather: ⛅️  Partly cloudy, +31°C, 71%, →4km/h, 1006hPa
 Timezone: Asia/Ho_Chi_Minh
-  Now:    21:00:24+0700 | Dawn:    04:51:38  | Sunrise: 05:15:56
+  Now:    21:30:10+0700 | Dawn:    04:51:38  | Sunrise: 05:15:56
   Zenith: 11:48:11      | Sunset:  18:20:33  | Dusk:    18:44:52
 Location: Đà Nẵng, Thanh Khê, Đà Nẵng, Việt Nam [16.0678,108.2118]
 
