@@ -23,7 +23,7 @@
 
 <pre>Weather: ⛅️  Partly cloudy, +32°C, 67%, ↓19km/h, 1005hPa
 Timezone: Asia/Ho_Chi_Minh
-  Now:    16:25:52+0700 | Dawn:    05:09:23  | Sunrise: 05:32:05
+  Now:    16:56:23+0700 | Dawn:    05:09:23  | Sunrise: 05:32:05
   Zenith: 11:51:20      | Sunset:  18:10:18  | Dusk:    18:32:58
 Location: Đà Nẵng, Thanh Khê, Đà Nẵng, Việt Nam [16.0678,108.2118]
 
@@ -108,6 +108,8 @@ Location: Đà Nẵng, Thanh Khê, Đà Nẵng, Việt Nam [16.0678,108.2118]
 </p>
 
 ## 📊 Github stats
+
+[![wakatime](https://wakatime.com/badge/user/f6eaf09c-495f-4a4f-aba1-8bb9b755f06a.svg)](https://wakatime.com/@f6eaf09c-495f-4a4f-aba1-8bb9b755f06a)
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <details>
