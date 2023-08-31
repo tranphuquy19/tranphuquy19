@@ -23,7 +23,7 @@
 
 <pre>Weather: 🌦   Patchy rain possible, +27°C, 83%, ↗17km/h, 1007hPa
 Timezone: America/Los_Angeles
-  Now:    17:09:07-0700 | Dawn:    06:08:25  | Sunrise: 06:37:22
+  Now:    17:33:23-0700 | Dawn:    06:08:25  | Sunrise: 06:37:22
   Zenith: 13:12:16      | Sunset:  19:45:55  | Dusk:    20:14:46
 
 </pre>
