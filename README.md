@@ -4,7 +4,7 @@
 </h3>
 
 <p align="center">
-  <a href="https://github.com/tranphuquy19"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack+developer;DevOps+Engineer;%2B4+years+coding+experience;A+Trainer;A+Blogger&center=true&width=380&height=45"></a>
+  <a href="https://github.com/tranphuquy19"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack+developer;DevOps+Engineer;%2B5+years+coding+experience;A+Trainer;A+Blogger&center=true&width=380&height=45"></a>
 </p>
 
 ## 🙋‍♂️ Connect with me
@@ -21,9 +21,9 @@
 
 ## ⛅️ Weather in Danang now!
 
-<pre>Weather: ⛅️  Partly cloudy, +34°C, 50%, ↘7km/h, 1001hPa
+<pre>Weather: ⛅️  Partly cloudy, +33°C, 53%, ↓22km/h, 1001hPa
 Timezone: Asia/Ho_Chi_Minh
-  Now:    17:03:59+0700 | Dawn:    05:12:09  | Sunrise: 05:34:23
+  Now:    17:30:46+0700 | Dawn:    05:12:09  | Sunrise: 05:34:23
   Zenith: 11:47:05      | Sunset:  17:59:27  | Dusk:    18:21:39
 Location: Đà Nẵng, Thanh Khê, Đà Nẵng, Việt Nam [16.0680,108.2117]
 
