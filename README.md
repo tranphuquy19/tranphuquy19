@@ -4,7 +4,7 @@
 </h3>
 
 <p align="center">
-  <a href="https://github.com/tranphuquy19"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack+developer;DevOps+Engineer;%2B4+years+coding+experience;A+Trainer;A+Blogger&center=true&width=380&height=45"></a>
+  <a href="https://github.com/tranphuquy19"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack+developer;DevOps+Engineer;%2B5+years+coding+experience;A+Trainer;A+Blogger&center=true&width=380&height=45"></a>
 </p>
 
 ## 🙋‍♂️ Connect with me
@@ -23,7 +23,7 @@
 
 <pre>Weather: ⛅️  Partly cloudy, +33°C, 63%, ←7km/h, 1007hPa
 Timezone: Asia/Ho_Chi_Minh
-  Now:    15:02:46+0700 | Dawn:    05:12:55  | Sunrise: 05:35:00
+  Now:    15:30:30+0700 | Dawn:    05:12:55  | Sunrise: 05:35:00
   Zenith: 11:45:06      | Sunset:  17:54:50  | Dusk:    18:16:54
 Location: Đà Nẵng, Thanh Khê, Đà Nẵng, Việt Nam [16.0680,108.2117]
 
