@@ -23,7 +23,7 @@
 
 <pre>Weather: ☀️   Clear, +28°C, 72%, ↗15km/h, 1008hPa
 Timezone: America/Los_Angeles
-  Now:    04:27:47-0700 | Dawn:    06:26:09  | Sunrise: 06:54:19
+  Now:    04:27:50-0700 | Dawn:    06:26:09  | Sunrise: 06:54:19
   Zenith: 13:06:29      | Sunset:  19:17:21  | Dusk:    19:45:27
 
 </pre>
