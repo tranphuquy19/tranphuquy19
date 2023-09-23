@@ -4,7 +4,7 @@
 </h3>
 
 <p align="center">
-  <a href="https://github.com/tranphuquy19"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack+developer;DevOps+Engineer;%2B5+years+coding+experience;A+Trainer;A+Blogger&center=true&width=380&height=45"></a>
+  <a href="https://github.com/tranphuquy19"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack+developer;DevOps+Engineer;%2B4+years+coding+experience;A+Trainer;A+Blogger&center=true&width=380&height=45"></a>
 </p>
 
 ## 🙋‍♂️ Connect with me
@@ -21,12 +21,7 @@
 
 ## ⛅️ Weather in Danang now!
 
-<pre>Weather: 🌦   Patchy rain possible, +30°C, 70%, ↗16km/h, 1006hPa
-Timezone: America/Los_Angeles
-  Now:    05:34:42-0700 | Dawn:    06:32:18  | Sunrise: 07:00:21
-  Zenith: 13:04:21      | Sunset:  19:07:04  | Dusk:    19:35:03
 
-</pre>
 
 <small>The weather forecast will be updated automatically every 30 minutes. <a href="https://github.com/tranphuquy19/readme-updater">How can I do that?</a></small>
 
