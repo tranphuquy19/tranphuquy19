@@ -4,7 +4,7 @@
 </h3>
 
 <p align="center">
-  <a href="https://github.com/tranphuquy19"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack+developer;DevOps+Engineer;%2B5+years+coding+experience;A+Trainer;A+Blogger&center=true&width=380&height=45"></a>
+  <a href="https://github.com/tranphuquy19"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack+developer;DevOps+Engineer;%2B4+years+coding+experience;A+Trainer;A+Blogger&center=true&width=380&height=45"></a>
 </p>
 
 ## 🙋‍♂️ Connect with me
@@ -12,7 +12,7 @@
 <!-- Badges template - https://github.com/badges/shields -->
 <p align="center">
   <a href="https://www.youtube.com/channel/UCglVvyTl9MjiDzNMl_9oqsw"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-  <a href="https://blog.innova-tech.io.vn"><img alt="My blog" title="Blog" src="https://img.shields.io/badge/My website-FF5722.svg?style=for-the-badge&logo=blogger&logoColor=white"/></a>
+  <a href="https://doracoder.tk"><img alt="My blog" title="Blog" src="https://img.shields.io/badge/My website-FF5722.svg?style=for-the-badge&logo=blogger&logoColor=white"/></a>
   <a href="https://twitter.com/tranphuquy19"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
   <a href="https://discord.gg/" alt="Dev Pro Tips Discussion & Support Server">
     <img src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logoColor=white&logo=discord"/></a>
@@ -23,7 +23,7 @@
 
 <pre>Weather: ⛅️  Partly cloudy, +29°C, 84%, ↗4km/h, 1010hPa
 Timezone: Asia/Ho_Chi_Minh
-  Now:    00:31:09+0700 | Dawn:    05:15:47  | Sunrise: 05:37:45
+  Now:    01:01:52+0700 | Dawn:    05:15:47  | Sunrise: 05:37:45
   Zenith: 11:35:48      | Sunset:  17:33:31  | Dusk:    17:55:28
 Location: Đà Nẵng, Thanh Khê, Đà Nẵng, Việt Nam [16.0680,108.2117]
 
