@@ -21,13 +21,7 @@
 
 ## ⛅️ Weather in Danang now!
 
-<pre>Weather: ⛅️  Partly cloudy, +28°C, 74%, ↖11km/h, 1017hPa
-Timezone: Asia/Ho_Chi_Minh
-  Now:    14:30:18+0700 | Dawn:    05:53:44  | Sunrise: 06:16:29
-  Zenith: 12:01:09      | Sunset:  17:46:01  | Dusk:    18:08:46
-Location: Đà Nẵng, Thanh Khê, Đà Nẵng, Việt Nam [16.0680,108.2117]
 
-</pre>
 
 <small>The weather forecast will be updated automatically every 30 minutes. <a href="https://github.com/tranphuquy19/readme-updater">How can I do that?</a></small>
 
