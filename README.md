@@ -4,7 +4,7 @@
 </h3>
 
 <p align="center">
-  <a href="https://github.com/tranphuquy19"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack+developer;DevOps+Engineer;%2B4+years+coding+experience;A+Trainer;A+Blogger&center=true&width=380&height=45"></a>
+  <a href="https://github.com/tranphuquy19"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack+developer;DevOps+Engineer;%2B5+years+coding+experience;A+Trainer;A+Blogger&center=true&width=380&height=45"></a>
 </p>
 
 ## 🙋‍♂️ Connect with me
@@ -12,7 +12,7 @@
 <!-- Badges template - https://github.com/badges/shields -->
 <p align="center">
   <a href="https://www.youtube.com/channel/UCglVvyTl9MjiDzNMl_9oqsw"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-  <a href="https://doracoder.tk"><img alt="My blog" title="Blog" src="https://img.shields.io/badge/My website-FF5722.svg?style=for-the-badge&logo=blogger&logoColor=white"/></a>
+  <a href="https://blog.innova-tech.io.vn"><img alt="My blog" title="Blog" src="https://img.shields.io/badge/My website-FF5722.svg?style=for-the-badge&logo=blogger&logoColor=white"/></a>
   <a href="https://twitter.com/tranphuquy19"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
   <a href="https://discord.gg/" alt="Dev Pro Tips Discussion & Support Server">
     <img src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logoColor=white&logo=discord"/></a>
@@ -23,7 +23,7 @@
 
 <pre>Weather: ☀️   Sunny, +26°C, 76%, ↑10km/h, 1011hPa
 Timezone: Asia/Ho_Chi_Minh
-  Now:    10:30:04+0700 | Dawn:    05:27:13  | Sunrise: 05:49:08
+  Now:    10:30:13+0700 | Dawn:    05:27:13  | Sunrise: 05:49:08
   Zenith: 11:53:41      | Sunset:  17:58:21  | Dusk:    18:20:18
 Location: Đà Nẵng, Thanh Khê, Đà Nẵng, Việt Nam [16.0680,108.2117]
 
@@ -34,7 +34,7 @@ Location: Đà Nẵng, Thanh Khê, Đà Nẵng, Việt Nam [16.0680,108.2117]
 ## 🔥 Streak stats
 
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
-> [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tranphuquy19&theme=radical&hide_border=true)](https://github.com/tranphuquy19)
+> [![GitHub Streak](https://streak-stats.demolab.com?user=tranphuquy19&theme=radical&hide_border=true)](https://github.com/tranphuquy19)
 
 
 ## 🛠️ My favorite tools
