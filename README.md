@@ -23,8 +23,8 @@
 
 <pre>Weather: 🌦   Patchy rain nearby, +20°C, 89%, ↘12km/h, 1016hPa
 Timezone: Asia/Ho_Chi_Minh
-  Now:    05:30:10+0700 | Dawn:    05:47:51  | Sunrise: 06:11:45
-  Zenith: 11:46:42      | Sunset:  17:21:53  | Dusk:    17:45:46
+  Now:    06:01:51+0700 | Dawn:    05:48:19  | Sunrise: 06:12:12
+  Zenith: 11:47:12      | Sunset:  17:22:25  | Dusk:    17:46:18
 Location: Đà Nẵng, Thanh Khê, Đà Nẵng, Việt Nam [16.0680,108.2117]
 
 </pre>
